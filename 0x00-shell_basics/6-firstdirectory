@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m  /tmp/my_first_directory
+mkdir -m 555 /tmp/my_first_directory
